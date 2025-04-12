@@ -1,0 +1,116 @@
+[
+  {
+    "date": "12/04/2025",
+    "type": "Natação",
+    "exercises": [
+      {
+        "description": "Aquecimento: 5 minutos de crawl fácil",
+        "ids": ["crawl"],
+        "duration": 5,
+        "intensity": "Baixa"
+      },
+      {
+        "description": "10x50m alternando crawl e nado de lado (25m cada)",
+        "reps": 10,
+        "ids": ["crawl", "sidestroke"],
+        "intensity": "Moderada"
+      },
+      {
+        "description": "4x25m kickboard drills (batimento de pernas)",
+        "reps": 4,
+        "ids": ["kickboard"],
+        "intensity": "Baixa"
+      },
+      {
+        "description": "Cooldown: 5 minutos de costas lento",
+        "ids": ["backstroke"],
+        "duration": 5,
+        "intensity": "Baixa"
+      }
+    ]
+  },
+  {
+    "date": "15/04/2025",
+    "type": "Ginásio em Casa",
+    "exercises": [
+      {
+        "description": "Press de ombros sentado (halteres)",
+        "reps": 12,
+        "image": "press ombros sentado com halteres"
+      },
+      {
+        "description": "Ponte de glúteos com banda elástica",
+        "reps": 15,
+        "image": "ponte glúteos com banda"
+      },
+      {
+        "description": "Deadlift com kettlebell",
+        "reps": 10,
+        "image": "deadlift kettlebell iniciante"
+      },
+      {
+        "description": "Prancha com bola de estabilidade",
+        "duration": 30,
+        "image": "prancha bola estabilidade"
+      },
+      {
+        "description": "Remada inclinada com halteres",
+        "reps": 12,
+        "image": "remada inclinada halteres"
+      }
+    ]
+  },
+  {
+    "date": "17/04/2025",
+    "type": "Wii Fit",
+    "exercises": [
+      {
+        "description": "Ioga: Postura da Árvore (Wii Fit U)",
+        "duration": 10,
+        "image": "wii fit u postura da árvore"
+      },
+      {
+        "description": "Dança do Bambu (Wii Fit U)",
+        "duration": 10,
+        "image": "wii fit u dança do bambu"
+      }
+    ]
+  },
+  {
+    "date": "18/04/2025",
+    "type": "Natação",
+    "exercises": [
+      {
+        "description": "Aquecimento: 5 minutos de bruços",
+        "duration": 5,
+        "image": "bruços natação técnica"
+      },
+      {
+        "description": "8x25m costas com pull buoy",
+        "reps": 8,
+        "image": "costas com pull buoy"
+      },
+      {
+        "description": "4x50m (25m crawl + 25m batimento golfinho)",
+        "reps": 4,
+        "image": "batimento golfinho subaquático"
+      },
+      {
+        "description": "5x25m sprints (estilo livre)",
+        "reps": 5,
+        "image": "natação sprint estilo livre"
+      }
+    ]
+  },
+  {
+    "date": "19/04/2025",
+    "type": "Caminhada",
+    "exercises": [
+      {
+        "description": "Caminhada em terreno plano",
+        "duration": 20,
+        "image": "caminhada terreno plano"
+      }
+    ]
+  }
+]

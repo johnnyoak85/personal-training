@@ -1,0 +1,81 @@
+[
+  {
+    "id": "crawl",
+    "name": "Nado Livre (Crawl)",
+    "positioning": "O nadador deita-se de bruços, com o corpo o mais horizontal possível e com o olhar direcionado ligeiramente para o fundo.",
+    "strokes": "Os braços alternam movimentos circulares – um se estende para a frente ao entrar na água, enquanto o outro realiza uma puxada para trás sob a superfície.",
+    "legs": "A pernada é rápida e alternada (flutter kick), proporcionando propulsão e estabilidade.",
+    "breathing": "O nadador gira a cabeça discretamente para um dos lados para inalar, sincronizando a inspiração com a recuperação do braço, e expira sob a água."
+  },
+  {
+    "id": "backstroke",
+    "name": "Nado de Costas",
+    "positioning": "O nadador deita-se de costas, mantendo o corpo alinhado e com o rosto voltado para o céu.",
+    "strokes": "Os braços alternam movimentos semelhantes ao crawl, com a recuperação ocorrendo acima da água e as palmas voltadas para fora.",
+    "legs": "Utiliza o mesmo flutter kick para manter a propulsão e a estabilidade, com as pernas próximas e alinhadas.",
+    "breathing": "Com a face acima da água, a respiração ocorre de forma natural e contínua."
+  },
+  {
+    "id": "breaststroke",
+    "name": "Nado de Peito (Bruços)",
+    "positioning": "O nadador deita-se de bruços com os ombros alinhados ao nível da água.",
+    "strokes": "Os braços movem-se simultaneamente em um movimento circular que puxa a água para gerar propulsão.",
+    "legs": "A pernada é executada como um 'chute de rã', com as pernas se abrindo e fechando de forma sincronizada para impulsionar o corpo.",
+    "breathing": "A inalação ocorre quando a cabeça se eleva ligeiramente durante a recuperação dos braços, enquanto a expiração ocorre com a cabeça submersa."
+  },
+  {
+    "id": "butterfly",
+    "name": "Nado Borboleta (Mariposa)",
+    "positioning": "O nadador mantém o corpo horizontal de bruços, exigindo alta coordenação e força.",
+    "strokes": "Ambos os braços se movem simultaneamente – entram na água e puxam para trás com potência, promovendo forte propulsão.",
+    "legs": "A pernada é realizada com um 'dolphin kick', com as pernas juntas em um movimento ondulatório.",
+    "breathing": "A respiração é feita a cada duas braçadas, com a cabeça sendo levantada durante a fase de recuperação dos braços."
+  },
+  {
+    "id": "sidestroke",
+    "name": "Nado Lateral (Sidestroke)",
+    "positioning": "O nadador nada de lado, com o corpo estendido; em contextos de resgate, o rosto pode ficar voltado para a vítima.",
+    "strokes": "Executa uma braçada forte e prolongada com o braço submerso, enquanto o outro braço auxilia na estabilização e tração.",
+    "legs": "Utiliza um movimento semelhante ao chute de rã adaptado à posição lateral para manter o equilíbrio e reduzir a resistência.",
+    "breathing": "Embora não haja instruções detalhadas para a respiração, normalmente a cabeça permanece fora da água para facilitar a visualização, permitindo uma respiração natural."
+  },
+  {
+    "id": "combat",
+    "name": "Nado Lateral de Combat (Combat Sidestroke)",
+    "positioning": "Mantém o corpo estendido lateralmente com um perfil baixo na água, reduzindo a visibilidade e a resistência.",
+    "strokes": "Combina elementos do sidestroke com características do freestyle e do nado de peito, realizando movimentos sincronizados dos braços para garantir uma propulsão eficiente.",
+    "legs": "Utiliza movimentos de pernada que enfatizam a estabilidade e o balanço, sem focar exclusivamente na velocidade.",
+    "breathing": "Não há uma técnica de respiração detalhada especificada; o foco é manter um ritmo constante e eficiente adequado para operações táticas."
+  },
+  {
+    "id": "classic",
+    "name": "Nado de Costas Clássico",
+    "positioning": "Nade de costas com o corpo estendido, em posição relaxada e alinhada, com o rosto voltado para cima.",
+    "strokes": "Os braços executam um movimento amplo e suave, semelhante a uma ‘borboleta invertida’, oferecendo uma propulsão graciosa e eficiente.",
+    "legs": "As pernas realizam um movimento similar ao chute do nado de peito, mas de forma mais moderada, contribuindo para uma propulsão constante sem sobrecarregar o corpo.",
+    "breathing": "Com o rosto sempre acima da água, a respiração é natural e contínua, facilitando um ritmo de nado relaxado e sem esforço."
+  },
+  {
+    "id": "elementary",
+    "name": "Nado de Costas Elementar",
+    "positioning": "Nade de costas de forma simples e relaxada, mantendo uma postura horizontal e sem movimentos excessivos.",
+    "strokes": "Os braços movem-se de forma síncrona e suave, com movimentos simples que ajudam a manter a estabilidade, sem forçar a técnica.",
+    "legs": "As pernas efetivam um chute leve, semelhante a uma versão reduzida do chute de peito, para manter a flutuabilidade com mínimo esforço.",
+    "breathing": "A respiração é facilitada pela posição do rosto acima da água, permitindo um ritmo tranquilo, ideal para relaxação."
+  },
+  {
+    "id": "trudgen",
+    "name": "Nado Trudgen",
+    "positioning": "Nade de bruços com uma ligeira rotação do corpo, mantendo uma postura alinhada e relativamente relaxada.",
+    "strokes": "Os braços alternam num movimento similar ao do crawl, mas com uma recuperação mais suave e um toque que remete ao sidestroke, proporcionando variedade e um desafio diferente para o treino.",
+    "legs": "Realize um chute em tesoura (scissors kick) ou uma combinação de chute de freestyle com um toque de tesoura, para um movimento rítmico e eficaz sem sobrecarregar os músculos.",
+    "breathing": "Coordene a respiração com a recuperação dos braços, mantendo um ritmo sustentável e um trabalho aeróbico equilibrado, ideal para a resistência."
+  },
+  {
+    "id": "kickboard",
+    "name": "Treino kickboard",
+    "positioning": "O nadador deita-se de bruços numa prancha, com o corpo o mais horizontal possível e com o olhar direcionado ligeiramente para o fundo.",
+    "legs": "A pernada é rápida e alternada (flutter kick), proporcionando propulsão e estabilidade.",
+    "breathing": "O nadador gira a cabeça discretamente para um dos lados para inalar, sincronizando a inspiração com a recuperação do braço, e expira sob a água."
+  }
+]
