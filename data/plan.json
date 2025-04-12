@@ -1,6 +1,6 @@
 [
   {
-    "date": "12/04/2025",
+    "date": "14/04/2025",
     "type": "Natação",
     "exercises": [
       {
@@ -35,28 +35,33 @@
     "exercises": [
       {
         "description": "Press de ombros sentado (halteres)",
+        "ids": ["shoulder_press"],
         "reps": 12,
-        "image": "press ombros sentado com halteres"
+        "intensity": "Moderada"
       },
       {
         "description": "Ponte de glúteos com banda elástica",
+        "ids": ["banded_glute_bridge"],
         "reps": 15,
-        "image": "ponte glúteos com banda"
+        "intensity": "Baixa"
       },
       {
         "description": "Deadlift com kettlebell",
+        "ids": ["kettlebell_deadlift"],
         "reps": 10,
-        "image": "deadlift kettlebell iniciante"
+        "intensity": "Moderada-Alta"
       },
       {
         "description": "Prancha com bola de estabilidade",
+        "ids": ["stability_plank"],
         "duration": 30,
-        "image": "prancha bola estabilidade"
+        "intensity": "Baixa"
       },
       {
         "description": "Remada inclinada com halteres",
+        "ids": ["bent_over_row"],
         "reps": 12,
-        "image": "remada inclinada halteres"
+        "intensity": "Moderada-Alta"
       }
     ]
   },
@@ -65,14 +70,24 @@
     "type": "Wii Fit",
     "exercises": [
       {
-        "description": "Ioga: Postura da Árvore (Wii Fit U)",
-        "duration": 10,
-        "image": "wii fit u postura da árvore"
+        "description": "Aquecimento: Corrida Básica (Wii Fit U)",
+        "duration": 5,
+        "intensity": "Baixa"
       },
       {
-        "description": "Dança do Bambu (Wii Fit U)",
-        "duration": 10,
-        "image": "wii fit u dança do bambu"
+        "description": "Postura da Árvore (Yoga - Wii Fit U)",
+        "duration": 5,
+        "intensity": "Moderada"
+      },
+      {
+        "description": "Bamboo Bounce (Jogo de Equilíbrio - Wii Fit U)",
+        "duration": 5,
+        "intensity": "Moderada-Alta"
+      },
+      {
+        "description": "Single-Leg Reach (Treino de Força - Wii Fit U)",
+        "reps": 8,
+        "intensity": "Alta"
       }
     ]
   },
@@ -82,23 +97,27 @@
     "exercises": [
       {
         "description": "Aquecimento: 5 minutos de bruços",
-        "duration": 5,
-        "image": "bruços natação técnica"
+        "ids": ["breaststroke"],
+        "intensity": "Baixa",
+        "duration": 5
       },
       {
         "description": "8x25m costas com pull buoy",
-        "reps": 8,
-        "image": "costas com pull buoy"
+        "ids": ["pullbuoy_backstroke"],
+        "intensity": "Moderada",
+        "reps": 8
       },
       {
         "description": "4x50m (25m crawl + 25m batimento golfinho)",
-        "reps": 4,
-        "image": "batimento golfinho subaquático"
+        "ids": ["crawl", "dolphin"],
+        "intensity": "Moderada-Alta",
+        "reps": 4
       },
       {
         "description": "5x25m sprints (estilo livre)",
-        "reps": 5,
-        "image": "natação sprint estilo livre"
+        "ids": ["crawl"],
+        "intensity": "Alta",
+        "reps": 5
       }
     ]
   },
@@ -108,8 +127,7 @@
     "exercises": [
       {
         "description": "Caminhada em terreno plano",
-        "duration": 20,
-        "image": "caminhada terreno plano"
+        "duration": 20
       }
     ]
   }

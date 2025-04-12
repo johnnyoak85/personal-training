@@ -34,6 +34,10 @@ function buildExerciseEntry(exercise) {
     div += `<p><strong>Nome:</strong> ${exercise.name}</p>`;
   }
 
+  if (exercise.muscles) {
+    div += `<p><strong>Músculos:</strong> ${exercise.muscles}</p>`;
+  }
+
   if (exercise.positioning) {
     div += `<p><strong>Posicionamento:</strong> ${exercise.positioning}</p>`;
   }
@@ -46,8 +50,20 @@ function buildExerciseEntry(exercise) {
     div += `<p><strong>Pernas:</strong> ${exercise.legs}</p>`;
   }
 
+  if (exercise.movement) {
+    div += `<p><strong>Movimento:</strong> ${exercise.movement}</p>`;
+  }
+
   if (exercise.breathing) {
     div += `<p><strong>Respiração:</strong> ${exercise.breathing}</p>`;
+  }
+
+  if (exercise.equipment) {
+    div += `<p><strong>Equipamento:</strong> ${exercise.equipment}</p>`;
+  }
+
+  if (exercise.mistakes) {
+    div += `<p><strong>Erros Comuns:</strong> ${exercise.mistakes}</p>`;
   }
 
   return (div += "</div>");

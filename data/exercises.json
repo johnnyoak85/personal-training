@@ -77,5 +77,69 @@
     "positioning": "O nadador deita-se de bruços numa prancha, com o corpo o mais horizontal possível e com o olhar direcionado ligeiramente para o fundo.",
     "legs": "A pernada é rápida e alternada (flutter kick), proporcionando propulsão e estabilidade.",
     "breathing": "O nadador gira a cabeça discretamente para um dos lados para inalar, sincronizando a inspiração com a recuperação do braço, e expira sob a água."
+  },
+  {
+    "id": "pullbuoy_backstroke",
+    "name": "Nado de Costas com Boia",
+    "positioning": "O nadador deita-se de costas com uma boia entre as coxas para isolar o trabalho dos braços.",
+    "strokes": "Braçadas amplas e contínuas do nado de costas, com foco na rotação dos ombros e alinhamento.",
+    "breathing": "Contínua e natural, com o rosto fora da água."
+  },
+  {
+    "id": "dolphin",
+    "name": "Batimento de Golfinho (Dolphin Kick)",
+    "positioning": "Corpo horizontal de bruços ou de lado, com braços estendidos à frente ou ao longo do corpo.",
+    "legs": "Movimento ondulatório sincronizado das pernas, inspirado no nado borboleta.",
+    "breathing": "Realizado com snorkel ou levantando a cabeça periodicamente."
+  },
+  {
+    "id": "shoulder_press",
+    "name": "Press de Ombros Sentado",
+    "positioning": "Sente-se numa cadeira/bola de estabilidade com as costas retas e os pés apoiados no chão. Segure os halteres ao nível dos ombros, com as palmas viradas para a frente.",
+    "movement": "Estenda os braços para cima até quase bloquear os cotovelos, depois regresse lentamente à posição inicial.",
+    "muscles": "Deltóides, tríceps, core (estabilização).",
+    "breathing": "Expire ao empurrar os halteres; inspire ao baixar.",
+    "equipment": "Halteres, cadeira/bola de estabilidade.",
+    "mistakes": "Arquear as costas ou usar balanço."
+  },
+  {
+    "id": "banded_glute_bridge",
+    "name": "Ponte de Glúteos com Banda",
+    "positioning": "Deitado de costas, joelhos dobrados e pés apoiados no chão. Coloque uma banda elástica acima dos joelhos.",
+    "movement": "Eleve os quadris até alinhar ombros, quadris e joelhos, mantendo a tensão na banda.",
+    "muscles": "Glúteos, isquiotibiais, core.",
+    "breathing": "Expire ao subir; inspire ao descer.",
+    "equipment": "Banda elástica.",
+    "mistakes": "Hiperextensão lombar ou joelhos colapsando para dentro."
+  },
+  {
+    "id": "kettlebell_deadlift",
+    "name": "Deadlift com Kettlebell",
+    "positioning": "Em pé, pés à largura dos ombros. Segure o kettlebell com ambas as mãos à frente do corpo.",
+    "movement": "Dobre ligeiramente os joelhos, incline o tronco para a frente mantendo as costas retas, depois estenda os quadris para levantar o peso.",
+    "muscles": "Posterior da coxa, glúteos, lombar.",
+    "breathing": "Inspire ao descer; expire ao subir.",
+    "equipment": "Kettlebell.",
+    "mistakes": "Arredondar as costas ou levantar com os braços."
+  },
+  {
+    "id": "stability_plank",
+    "name": "Prancha com Bola de Estabilidade",
+    "positioning": "Apoie os antebraços na bola de estabilidade, com o corpo em linha reta dos ombros aos tornozelos.",
+    "movement": "Mantenha a posição estática, contraindo o core e evitando oscilações.",
+    "muscles": "Core (transverso abdominal, oblíquos), ombros.",
+    "breathing": "Respiração diafragmática contínua e controlada.",
+    "equipment": "Bola de estabilidade.",
+    "mistakes": "Quadris caídos ou cabeça erguida."
+  },
+  {
+    "id": "bent_over_row",
+    "name": "Remada Inclinada com Halteres",
+    "positioning": "Incline-se para a frente com o tronco quase paralelo ao chão, joelhos ligeiramente flexionados. Segure os halteres com as palmas viradas para o corpo.",
+    "movement": "Puxe os halteres em direção às costelas, mantendo os cotovelos próximos ao corpo.",
+    "muscles": "Dorsais, trapézio, bíceps.",
+    "breathing": "Expire ao puxar; inspire ao baixar.",
+    "equipment": "Halteres.",
+    "mistakes": "Usar momentum ou rodar os ombros."
   }
 ]
