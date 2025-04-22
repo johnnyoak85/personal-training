@@ -130,5 +130,90 @@
         "duration": 20
       }
     ]
+  },
+  {
+    "date": "21/04/2025",
+    "type": "Natação",
+    "notes": "Foco em técnica e gestão de tempo",
+    "exercises": [
+      {
+        "description": "Aquecimento: 5 min crawl fácil",
+        "intensity": "low",
+        "duration": 5
+      },
+      {
+        "description": "8x25m nado lateral (sidestroke) com pausa de 20s",
+        "reps": 8,
+        "intensity": "moderate",
+        "tips": "Mantenha o corpo alinhado lateralmente; assista a um vídeo de referência antes."
+      },
+      {
+        "description": "4x25m kickboard drills (apenas 25m para preservar energia)",
+        "reps": 4,
+        "intensity": "low"
+      },
+      {
+        "description": "Cooldown: 5 min costas elementar",
+        "intensity": "low",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "22/04/2025",
+    "type": "Ginásio em Casa",
+    "notes": "Use saco de 5kg + kettlebell para aumentar carga",
+    "exercises": [
+      {
+        "description": "Aquecimento: 5 min elíptica (resistência média)",
+        "intensity": "low",
+        "duration": 5
+      },
+      {
+        "description": "Deadlift com kettlebell (4kg) + saco de 5kg",
+        "reps": 12,
+        "intensity": "moderate",
+        "tips": "Mantenha as costas retas; use elástico de 110cm para feedback postural."
+      },
+      {
+        "description": "Remada inclinada com halteres (2kg + elástico de 40cm)",
+        "reps": 15,
+        "intensity": "moderate-high",
+        "tips": "Prenda o elástico sob os pés para aumentar resistência."
+      },
+      {
+        "description": "Prancha com bola de 22cm (30s x 3)",
+        "duration": 30,
+        "intensity": "moderate"
+      }
+    ]
+  },
+  {
+    "date": "24/04/2025",
+    "type": "Wii Fit",
+    "notes": "Foco em equilíbrio para complementar a natação",
+    "exercises": [
+      {
+        "description": "Hula Hoop (10 min)",
+        "intensity": "moderate",
+        "duration": 10
+      },
+      {
+        "description": "Single-Leg Reach (5 min)",
+        "intensity": "high",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "26/04/2025",
+    "type": "Caminhada",
+    "exercises": [
+      {
+        "description": "Caminhada em subida com tornozeleiras de 1kg",
+        "duration": 25,
+        "intensity": "moderate-high"
+      }
+    ]
   }
 ]
